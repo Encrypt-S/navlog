@@ -1,17 +1,17 @@
-btclog
+navlog
 ======
 
-[![Build Status](http://img.shields.io/travis/btcsuite/btclog.svg)](https://travis-ci.org/btcsuite/btclog)
+[![Build Status](http://img.shields.io/travis/navcoin/navlog.svg)](https://travis-ci.org/navcoin/navlog)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/btcsuite/btclog)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/navcoin/navlog)
 
-Package btclog defines a logger interface and provides a default implementation
+Package navlog defines a logger interface and provides a default implementation
 of a subsystem-aware leveled logger implementing the same interface.
 
 ## Installation
 
 ```bash
-$ go get github.com/btcsuite/btclog
+$ go get github.com/navcoin/navlog
 ```
 
 ## GPG Verification Key
@@ -36,5 +36,5 @@ verify the signature perform the following:
 
 ## License
 
-Package btclog is licensed under the [copyfree](http://copyfree.org) ISC
+Package navlog is licensed under the [copyfree](http://copyfree.org) ISC
 License.
